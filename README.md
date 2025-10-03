@@ -4,7 +4,7 @@
 
 1)Visual Studio  
 
-2.NET 8.0 SDK installed
+2).NET 8.0 SDK installed
 
 #Steps:
 
