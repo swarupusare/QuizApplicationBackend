@@ -34,7 +34,7 @@ Swagger UI will open at https://localhost:<port>/swagger
 
 #Prerequisites:
 
-1)Install MongoDB: https://www.mongodb.com/try/download/community
+1)Install MongoDB 
 
 #Steps:
 
