@@ -1,22 +1,22 @@
 1️⃣ Backend (ASP.NET Core Web API)
 
-Prerequisites:
+#Prerequisites:
 
-Visual Studio 2022 (or VS Code with C# extension)
+1)Visual Studio  
 
-.NET 8.0 SDK installed
+2.NET 8.0 SDK installed
 
-Steps:
+#Steps:
 
-Open the backend project in Visual Studio or VS Code.
+1)Open the backend project in Visual Studio 
 
-If required packages are not installed, install these NuGet packages:
+2)If required packages are not installed, install these NuGet packages:
 
-MongoDB.Driver
+  MongoDB.Driver
 
-MongoDB.Bson
+  MongoDB.Bson
 
-Update appsettings.json with your MongoDB connection string:
+3)Update appsettings.json with your MongoDB connection string:
 
 {
   "MongoDB": {
@@ -26,6 +26,6 @@ Update appsettings.json with your MongoDB connection string:
 }
 
 
-Run the API (F5 in Visual Studio or dotnet run in terminal).
+4)Run the API (F5 in Visual Studio or dotnet run in terminal).
 
 Swagger UI will open at https://localhost:<port>/swagger
