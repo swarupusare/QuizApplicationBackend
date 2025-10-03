@@ -29,3 +29,17 @@
 4)Run the API (F5 in Visual Studio or dotnet run in terminal).
 
 Swagger UI will open at https://localhost:<port>/swagger
+
+2️⃣ Database (MongoDB)
+
+#Prerequisites:
+
+1)Install MongoDB: https://www.mongodb.com/try/download/community
+
+#Steps:
+
+Start MongoDB service.
+
+Create database QuizDB.
+
+Create collection Questions.
