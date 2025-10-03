@@ -10,7 +10,9 @@
 1)Open the backend project in Visual Studio.
 
 2)If required packages are not installed, install these NuGet packages:
+
   MongoDB.Driver
+
   MongoDB.Bson
 
 3)Update appsettings.json with your MongoDB connection string:
