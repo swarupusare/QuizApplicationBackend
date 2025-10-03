@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "OnlineQuizApp.Controllers.QuizController",
+    "Method": "AddQuestion",
+    "RelativePath": "api/Quiz",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "question",
+        "Type": "OnlineQuizApp.Model.DBModel.Question",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineQuizApp.Controllers.QuizController",
+    "Method": "GetAllQuestions",
+    "RelativePath": "api/Quiz/{quizId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineQuizApp.Controllers.QuizController",
+    "Method": "GetResult",
+    "RelativePath": "api/Quiz/{quizId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "answers",
+        "Type": "System.Collections.Generic.List\u00601[[OnlineQuizApp.Model.DBModel.Answer, OnlineQuizApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

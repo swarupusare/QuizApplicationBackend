@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\model\\dbmodel\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:model\\dbmodel\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\model\\viewmodel\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:model\\viewmodel\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\model\\viewmodel\\questionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:model\\viewmodel\\questionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\model\\dbmodel\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:model\\dbmodel\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\repository\\implementation\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:repository\\implementation\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|c:\\users\\swarup usare\\source\\repos\\onlinequizapp\\dbcontext\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB7130-8FAD-44F2-AD93-08996BDE3251}|OnlineQuizApp.csproj|solutionrelative:dbcontext\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:24:36.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:08:41.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\DBContext\\QuizDBContext.cs",
+              "RelativeDocumentMoniker": "DBContext\\QuizDBContext.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\DBContext\\QuizDBContext.cs",
+              "RelativeToolTip": "DBContext\\QuizDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:04:05.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Repository\\Implementation\\QuizRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\QuizRepository.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Repository\\Implementation\\QuizRepository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\QuizRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:01:55.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\DBModel\\Question.cs",
+              "RelativeDocumentMoniker": "Model\\DBModel\\Question.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\DBModel\\Question.cs",
+              "RelativeToolTip": "Model\\DBModel\\Question.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:26:02.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\ViewModel\\QuestionViewModel.cs",
+              "RelativeDocumentMoniker": "Model\\ViewModel\\QuestionViewModel.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\ViewModel\\QuestionViewModel.cs",
+              "RelativeToolTip": "Model\\ViewModel\\QuestionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:01:40.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\ViewModel\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "Model\\ViewModel\\ResultViewModel.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\ViewModel\\ResultViewModel.cs",
+              "RelativeToolTip": "Model\\ViewModel\\ResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:25:45.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\DBModel\\Answer.cs",
+              "RelativeDocumentMoniker": "Model\\DBModel\\Answer.cs",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\Model\\DBModel\\Answer.cs",
+              "RelativeToolTip": "Model\\DBModel\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:25:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Swarup Usare\\source\\repos\\OnlineQuizApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T05:06:33.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
